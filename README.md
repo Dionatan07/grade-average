@@ -1,5 +1,5 @@
 <h2>
-Grade Average
+Grade Average &#x1F5CA;
 </h2>
 
 <p>Exercício Simples com uso de vetores
